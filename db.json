@@ -1,0 +1,28 @@
+{
+  "clientes": [
+    {
+      "nombre": "Toño",
+      "empresa": "Toño",
+      "email": "Tono@gmail.com",
+      "telefono": "5539934791",
+      "notas": "toño",
+      "id": 3
+    },
+    {
+      "nombre": "Alejandro",
+      "empresa": "Tesla",
+      "email": "alesjchocador@hotmail.com",
+      "telefono": "5539934791",
+      "notas": "AA",
+      "id": 4
+    },
+    {
+      "nombre": "Cliente",
+      "empresa": "Cliente",
+      "email": "Cliente@gmail.com",
+      "telefono": "5539934791",
+      "notas": "Cliente",
+      "id": 6
+    }
+  ]
+}
